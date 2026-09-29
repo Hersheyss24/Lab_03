@@ -1,0 +1,11 @@
+Table: author
+* Author_id INTEGER
+* Name TEXT
+Table: book
+* Book_id INTEGER
+* Title TEXT
+* Author_id INTEGER
+* Year INTEGER
+* Rating INTEGER 1-5 rating
+* Read_it_or_not BOOLEAN 
+
